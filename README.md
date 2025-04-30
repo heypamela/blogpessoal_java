@@ -1,6 +1,6 @@
 Anotações: 
 
-Link do projeto em PROD: https://blogpessoal-ubm6.onrender.com/swagger-ui/index.html
+Link do projeto em PROD: https://blogpessoal-ubm6.onrender.com
 Deploy feito no render: https://render.com/
 
 Na hora de testar o projeto localmente mudar no application.properties 
