@@ -102,6 +102,7 @@ public class UsuarioControllerTest {
         assertEquals(HttpStatus.OK, resposta.getStatusCode());
     }
 
+    @SuppressWarnings("null")
     @Test
     @DisplayName("Listar usuário pelo ID")
     public void deveMostrarUsuarioPeloID(){
